@@ -21,7 +21,7 @@ SMU Blockchain session on 20th Feb from 10:30am to 12:00pm
 
 4. Install the Metamask plugin in Chrome - https://metamask.io/ 
 
-5. Point Metamask to testrpc endpoint setup previously
+5. Point Metamask to testrpc endpoint setup previously using http://TruffleVM_IP:8545
 
 6. Log into Metamask and see the first account
 
