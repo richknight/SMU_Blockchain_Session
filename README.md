@@ -5,7 +5,7 @@ SMU Blockchain session on 20th Feb from 10:30am to 12:00pm
 
 1. Setup Truffle - https://azuremarketplace.microsoft.com/en-us/marketplace/apps/consensys.truffle 
 
-2. Record the IP address of the Truffle VM and run “testrpc”
+2. Record the IP address of the Truffle VM; SSH to this IP address and run “testrpc”
 
 3. Open another SSH window to the Truffle VM and do the following:
 
