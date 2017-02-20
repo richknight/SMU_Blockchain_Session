@@ -1,7 +1,7 @@
 # SMU_Blockchain_Session
 SMU Blockchain session on 20th Feb from 10:30am to 12:00pm
 
-Deploying to local environment
+<h3> Deploying to local environment </h3>
 
 1. Setup Truffle - https://azuremarketplace.microsoft.com/en-us/marketplace/apps/consensys.truffle 
 
