@@ -45,7 +45,8 @@ SMU Blockchain session on 20th Feb from 10:30am to 12:00pm
 
   d. modify truffle.js to point to the Ethereum Enterprise private consortium template
 
-  e. Unlock the default geth account by opening an SSH window the Ethereum Enterprise private consortium template’s transaction node using: personal.unlockAccount("0x04e2e303405c4e925c2708ac2ccfe86ded44df77", "Microsoft12345", 15000)
+  e. Unlock the default geth account by opening an SSH window the Ethereum Enterprise private consortium template’s transaction node using: 
+  personal.unlockAccount("0x04e2e303405c4e925c2708ac2ccfe86ded44df77", "Microsoft12345", 15000)
 
   f. truffle compile # Compile the existing smart contracts
 
