@@ -1,7 +1,7 @@
 # SMU_Blockchain_Session
 SMU Blockchain session on 20th Feb from 10:30am to 12:00pm
 
-<h3> Deploying to local environment </h3>
+<h4> Deploying to local environment </h4>
 
 1. Setup Truffle - https://azuremarketplace.microsoft.com/en-us/marketplace/apps/consensys.truffle 
 
@@ -31,7 +31,7 @@ SMU Blockchain session on 20th Feb from 10:30am to 12:00pm
 
 9. Transfer between accounts using Metamask
 
-Deploying to Private Blockchain on Microsoft Azure
+<h4>Deploying to Private Blockchain on Microsoft Azure</h4>
 
 1. Setup an Ethereum Enterprise private consortium template - https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-service?tab=Overview 
 
